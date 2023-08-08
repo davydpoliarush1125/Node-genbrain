@@ -1,0 +1,20 @@
+{
+  "name": "node-genbrain",
+  "version": "1.0.0",
+  "description": "a library for building reactive algorithm networks",
+  "main": "index.js",
+  "scripts": {
+    "test": "tape test/*.js"
+  },
+  "keywords": [
+    "algorithm",
+    "network",
+    "distributed",
+    "graph"
+  ],
+  "author": "Raul E. Jordan",
+  "license": "MIT",
+  "devDependencies": {
+    "tape": "*"
+  }
+}
